@@ -11,10 +11,9 @@ A fun, beginner-friendly command-line game built using Python. Play Snake, Water
 
 ## Game Rules
 
-| Choice | Beats |
-| 🐍 Snake | 💧 Water |
-| 💧 Water | 🔫 Gun |
-| 🔫 Gun | 🐍 Snake |
+- 🐍 Snake beats 💧 Water.
+- 💧 Water beats 🔫 Gun.
+- 🔫 Gun beats 🐍 Snake.
 
 ## What I Learned
 
